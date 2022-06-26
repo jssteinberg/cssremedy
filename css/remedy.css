@@ -22,6 +22,18 @@ category: global
 
 
 /* @docs
+label: text-size-adjust
+
+note: |
+  Fix Ios Safari's up scaling of text in landscape mode for some elements,
+  but unintuitively not all.
+
+category: global
+*/
+html { -webkit-text-size-adjust: 100%; }
+
+
+/* @docs
 label: Body Margins
 
 note: |
