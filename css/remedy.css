@@ -25,7 +25,7 @@ category: global
 label: text-size-adjust
 
 note: |
-  Fix Ios Safari's up scaling of text in landscape mode for some elements,
+  Fix Ios Safari's bigger text in landscape mode for some elements,
   but unintuitively not all.
 
 category: global
